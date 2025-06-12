@@ -323,6 +323,7 @@ Link your sounds, effects, inputs & outputs together with a drag and drop interf
 
 ### Other UI 
 
+- [input-knobs](https://github.com/g200kg/input-knobs) - turns `<input>` tags into sliders, knobs, etc
 - [webaudio-controls](https://github.com/g200kg/webaudio-controls) - web components aimed at VST instruments, DAWs, etc
 - [abcjs](https://github.com/paulrosen/abcjs) - for rendering music notation
 - [williamfields/nofft.js](https://github.com/williamfields/nofft.js) - Javascript library for creating MIDI-responsive visuals
