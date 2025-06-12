@@ -39,6 +39,7 @@ JavaScript tools, libraries and components for creating/managing audio, sounds a
 
 ### Web MIDI API
 
+- [Playing MIDI in JavaScript](https://medium.com/swinginc/playing-with-midi-in-javascript-b6999f2913c3) - lots of good examples and code samples
 - [Web MIDI Examples](https://webmidi-examples.glitch.me/) - nice, short example code snippets
 - [CSS Tricks: Dip your toes into hardware with Web MIDI](https://css-tricks.com/dip-your-toes-into-hardware-with-webmidi/) - covers anatomy of a MIDI signal, MIDI notes
 - [Keith McMillen: Making Music in the Browser with Web MIDI API](https://www.keithmcmillen.com/blog/making-music-in-the-browser-web-midi-api/)
