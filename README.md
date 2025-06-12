@@ -242,6 +242,7 @@ Use (often) grid-based, stepped/looping sequencer UIs to generate beats, riffs, 
 - [tinysynth](https://github.com/n1k0/tinysynth) - a nice little sequencer, easy to use, nice UI, generate random tracks
 - [nicolas-van/sonant-x-live](https://github.com/nicolas-van/sonant-x-live) - piano keyboard, filters, synth, sequencer, uses [sonant-x](https://github.com/nicolas-van/sonant-x)
 - [andrefcasimiro/midikrew](https://github.com/andrefcasimiro/midikrew) - full fledged music sequencer, built with React
+- [SpessaSynth](https://github.com/spessasus/SpessaSynth) - MIDI player with tracker, loads of settings
 
 ### Synths
 
