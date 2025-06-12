@@ -287,6 +287,7 @@ A "DAW" is a digital audio workstation - an all-round music production app
 
 ### React components
 
+- [r-audio](https://github.com/bbc/r-audio) - WebAudio API using JSX
 - [react-music](https://www.npmjs.com/package/react-music) - define sounds, effects, etc, using JSX
 - [kedromelon/mdlr](https://github.com/kedromelon/mdlr) - like above, but more for sound generation (oscillators, tones, waveforms, synths) 
 - [react-midi-device-provider](https://github.com/halvves/react-midi-device-provider) - simple MIDI device/messages handler for react
