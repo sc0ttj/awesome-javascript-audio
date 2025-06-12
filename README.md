@@ -182,9 +182,9 @@ Samplers make it easy to import, chop up, and extract parts of an audio file (us
 Modify a sound with more/less attack, delay, sustain, release, etc.
 
 - [audio-contour](https://www.npmjs.com/package/audio-contour) - A 5 stage audio envelope generator.. nice UI to edit WAV forms
-- [adsr-envelope](https://github.com/mohayonao/adsr-envelope) - attack, delay, sustain, release and MORE, lots of options
-- [envelope-generator](https://github.com/itsjoesullivan/envelope-generator) - nice and complete, lots of options
-- [adsr](https://github.com/mmckegg/adsr) - attack, delay, sustain, release envelopes
+- [mohayonao/adsr-envelope](https://github.com/mohayonao/adsr-envelope) - attack, delay, sustain, release and MORE, lots of options
+- [itsjoesullivan/envelope-generator](https://github.com/itsjoesullivan/envelope-generator) - nice and complete, lots of options
+- [mmckegg/adsr](https://github.com/mmckegg/adsr) - attack, delay, sustain, release envelopes
 
 ### Sound equalizers
 
@@ -310,22 +310,23 @@ Also known as "graph editors".
 
 Link your sounds, effects, inputs & outputs together with a drag and drop interface:
 
+- [g200kg/WebAudioDesigner](https://github.com/g200kg/WebAudioDesigner) - nice node based sound designer [demo](https://g200kg.github.io/WebAudioDesigner/)
 - [cwilso/WebAudio](https://github.com/cwilso/WebAudio) - awesome, easy-to-use node editor, with [demo](https://webaudioplayground.appspot.com)
 - [tai2/webaudiocomposer](https://github.com/tai2/webaudiocomposer) - audio node-editor with a patch-based UI, like Quartz composer
 - [dataflow-webaudio](https://github.com/forresto/dataflow-webaudio) - Dataflow graph editor + Web Audio API - [demo](https://forresto.github.io/dataflow-webaudio/)
 
 ### Audio visualization
 
-- [vudio.js](https://github.com/margox/vudio.js) - very nice bouncing bars, can place or align at top, bottom, left, right or center
+- [margox/vudio.js](https://github.com/margox/vudio.js) - very nice bouncing bars, can place or align at top, bottom, left, right or center
 - [pts.js](https://ptsjs.org/) - a powerful creative coding and visualization library
 - [kelvinau/circular-audio-wave](https://github.com/kelvinau/circular-audio-wave) - circular audio waves powered by E-charts
-- [party-mode](https://github.com/preziotte/party-mode) - a d3 based visualizer with lots of options
+- [preziotte/party-mode](https://github.com/preziotte/party-mode) - a d3 based visualizer with lots of options
 
 ### Other UI 
 
-- [input-knobs](https://github.com/g200kg/input-knobs) - turns `<input>` tags into sliders, knobs, etc
-- [webaudio-controls](https://github.com/g200kg/webaudio-controls) - web components aimed at VST instruments, DAWs, etc
-- [abcjs](https://github.com/paulrosen/abcjs) - for rendering music notation
+- [g200kg/input-knobs](https://github.com/g200kg/input-knobs) - turns `<input>` tags into sliders, knobs, etc
+- [g200kg/webaudio-controls](https://github.com/g200kg/webaudio-controls) - web components aimed at VST instruments, DAWs, etc
+- [paulrosen/abcjs](https://github.com/paulrosen/abcjs) - for rendering music notation
 - [williamfields/nofft.js](https://github.com/williamfields/nofft.js) - Javascript library for creating MIDI-responsive visuals
 - [nexus-js/ui](https://github.com/nexus-js/ui) - very nice UI toolkit for web based MIDI instrument [UI components](https://nexus-js.github.io/ui/) (used by nofft, above)
 - [ISNIT0/webaudio-generator](https://github.com/ISNIT0/webaudio-generator) - a UI for generating Web Audio API code
