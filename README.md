@@ -284,6 +284,7 @@ A "DAW" is a digital audio workstation - an all-round music production app
 - [zrythm](https://github.com/zrythm/zrythm) - requires isgn up. A highly automated and intuitive DAW
 - [audiotool](https://www.audiotool.com/) - requires sign up. Lots of tools and features, also available as a Chrome extension
 - [soundation](https://soundation.com/) - requires sign up. Sleek looking DAW, looks similar to Non-DAW
+- [BeepBox](https://beepbox.co), [JummBox](https://jummb.us), [and](https://ultraabox.github.io) [their](https://choptop84.github.io/abyssbox-app) [many](https://slarmoo.github.io/slarmoosbox/website/) [forks](https://jukeebox.github.io) - no sign up required (saves song data in the URL hash), tons of presets & effects, many forks include automation channels
 
 ## UI components and libraries
 
