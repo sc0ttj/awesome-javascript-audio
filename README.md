@@ -90,6 +90,7 @@ These are tools for managing MIDI instruments (hardware instruments/devices):
 
 - [google/audion](https://github.com/google/audion) - adds a new tab to Chrome DevTools with a node editor to view your AudioNodes 
 - [Pure Data](https://puredata.info/) - develop your own synths and patches
+- [Audio Browser Lab](https://github.com/aribradshaw/audio-browser-lab) - reproduce and diagnose browser audio playback, seeking, codec, and lifecycle bugs with shareable evidence
 
 ## Music theory
 
