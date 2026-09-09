@@ -85,6 +85,7 @@ These are tools for managing MIDI instruments (hardware instruments/devices):
 - [tween-midi-editor](https://github.com/tuomashatakka/tween-midi-editor) - MIDI tween editor
 - [AndrejHronco/midi-ports](https://github.com/AndrejHronco/midi-ports) - small library to manage attached MIDI ports and devices
 - [jazz-soft/JZZ-midi-Gear](https://github.com/jazz-soft/JZZ-midi-Gear) - get info about your MIDI device
+- [bipluk](https://bipluk.com/) - browser-based librarian for backing up and managing hardware synthesizer patches over Web MIDI and SysEx
 
 ## Developer tools
 
