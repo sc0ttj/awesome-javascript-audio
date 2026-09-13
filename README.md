@@ -57,6 +57,7 @@ JavaScript tools, libraries and components for creating/managing audio, sounds a
 - [kittykatattack/sound.js](https://github.com/kittykatattack/sound.js) - micro library to load, generate and play sounds
 - [notthetup/smoothfade](https://github.com/notthetup/smoothfade) - smooth fade between AudioNodes
 - [scriptify/sountility](https://github.com/scriptify/sountility) - includes many small packages for adding, mixing, toggling effects on AudioNodes
+- [Browser Music Analysis Kit](https://github.com/j022315051/browser-music-analysis-kit) - dependency-free pitch, key, Camelot and chord analysis helpers for browser audio projects
 
 ## Libraries: Web MIDI API
 
