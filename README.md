@@ -58,6 +58,7 @@ JavaScript tools, libraries and components for creating/managing audio, sounds a
 - [notthetup/smoothfade](https://github.com/notthetup/smoothfade) - smooth fade between AudioNodes
 - [scriptify/sountility](https://github.com/scriptify/sountility) - includes many small packages for adding, mixing, toggling effects on AudioNodes
 
+- [Browser Music Analysis Kit](https://github.com/j022315051/browser-music-analysis-kit) - dependency-free pitch, key, Camelot and chord analysis helpers for browser audio projects
 ## Libraries: Web MIDI API
 
 - [cwilso/WebMIDIAPIShim](https://github.com/cwilso/WebMIDIAPIShim) - popular polyfill, used by Jazzsoft, among others. [Test it here](https://cwilso.github.io/WebMIDIAPIShim/)
