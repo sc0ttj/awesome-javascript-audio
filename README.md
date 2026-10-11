@@ -170,6 +170,7 @@ These produce sounds which oscillate between two values on a low frequency, foll
 - [wad](https://github.com/rserota/wad) - advanced processing/manipulating of sound files
 - [tuna](https://github.com/Theodeus/tuna) - an audio effects library for the Web Audio API
 - [scriptify/Chnl](https://github.com/scriptify/Chnl) - makes it easy to attach lots of effects to a single AudioNode of any kind
+- [QuietTake Noise Remover (web app)](https://noiseremover.site/) - browser-local speech noise suppression with RNNoise WebAssembly, strength controls, original/cleaned playback and WAV export; free without an account or audio upload, with limits of 50 MB and five minutes.
 
 ### Sound samplers:
 
