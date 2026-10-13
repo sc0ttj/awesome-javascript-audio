@@ -16,6 +16,7 @@ JavaScript tools, libraries and components for creating/managing audio, sounds a
   - [Doc: Play With Your Rhythm](https://docs.google.com/spreadsheets/d/19_3BxUMy3uy1Gb0V8Wc-TcG7q16Amfn6e8QVw4-HuD0/edit#gid=0) - spreadsheet showing notations for all patterns
 - [solfej.io/chords](https://www.solfej.io/chords) - search any chord to hear it, and see how to play on various instruments
 - [solfej.io/scales](https://www.solfej.io/chords) - search any scales to hear it, and see how to play, and which chords are in the scale
+- [My Chord Finder](https://mychordfinder.com/) - look up guitar and piano chords, identify selected notes, explore scales, and hear recorded instrument samples in the browser
 
 ### Web Audio API
 
