@@ -264,6 +264,7 @@ Generate and edit your own sounds, voices and sound effects.
 - [kevin-chau/minimoog.js](https://github.com/kevin-chau/minimoog.js) - a Minimoog synth
 - [francoisgeorgy/BS2-Web](https://github.com/francoisgeorgy/BS2-Web) - a very polished web interface for the BassStation II synth
 - [d3-synth](https://roadtolarissa.com/synth/) - synth sounds, with circular tracker UI. Very nice, clean code
+- [NOODLERACK](https://github.com/stets/noodlerack) - browser-based modular synth with patch cables, sequencers, effects and MIDI input, built with Web Audio, AudioWorklet and WebAssembly ([play](https://noodlerack.com/))
 
 ### Multi-instruments
 
