@@ -36,6 +36,7 @@ JavaScript tools, libraries and components for creating/managing audio, sounds a
 - [Visualizations with Audio API and D3](https://blog.scottlogic.com/2016/01/06/audio-api-with-d3.html) - tutorial on music visualisation with D3, [demo](https://wpferg.uk/MusicVisualisation/)
 - [Music frequency visualizer with D3](https://www.bignerdranch.com/blog/music-visualization-with-d3-js/) - nice short guide, with [repo](https://github.com/bignerdranch/music-frequency-d3) and [demo](https://bignerdranch.github.io/music-frequency-d3/)
 - [Visualising Sound with D3](https://medium.com/better-programming/visualizing-sound-with-d3-and-web-audio-api-435ffea88f30) - covers and demos various different visualisations
+- [FM-1 Emulator](https://fm1-emulator.atst.tools/) - Free browser emulator for the M-VAVE FM-1 pocket synth; plays stock and 200+ community firmwares
 
 ### Web MIDI API
 
