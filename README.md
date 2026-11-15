@@ -333,5 +333,6 @@ Link your sounds, effects, inputs & outputs together with a drag and drop interf
 - [williamfields/nofft.js](https://github.com/williamfields/nofft.js) - Javascript library for creating MIDI-responsive visuals
 - [nexus-js/ui](https://github.com/nexus-js/ui) - very nice UI toolkit for web based MIDI instrument [UI components](https://nexus-js.github.io/ui/) (used by nofft, above)
 - [ISNIT0/webaudio-generator](https://github.com/ISNIT0/webaudio-generator) - a UI for generating Web Audio API code
+- [No Stairs Please](https://nostairsplease.com/) - directory and [MCP server](https://nostairsplease.com/mcp) of small live-music venues across all 50 US states and who books them ([venues](https://nostairsplease.com/venues))
 
 
