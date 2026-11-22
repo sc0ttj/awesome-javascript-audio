@@ -215,6 +215,7 @@ Frontends and UIs to load & play your sounds.
 - [electric-drums-pwa](https://github.com/1XWebbyX1/electric-drums-pwa) - simple, buttons at bottom, good performance
 - [dburles/ssu16](https://github.com/dburles/ssu16) - very slick Akai-like MPC, with step sequencing, sample import, much more
 - [cwilso/MIDIDrums](https://github.com/cwilso/MIDIDrums) - MIDI version of Shiny Drum Machine 
+- [GrooveSheet Online Drum Pads (web app)](https://www.groovesheet.net/tools/drum-pads) - 8x8 grid of 49 drum sounds played with a Novation Launchpad, Akai APC mini or any pad controller over Web MIDI, or the mouse and keys, with lit pads and a one-button looper; free, no account
 
 ### Guitar
 
