@@ -174,6 +174,7 @@ These produce sounds which oscillate between two values on a low frequency, foll
 - [tuna](https://github.com/Theodeus/tuna) - an audio effects library for the Web Audio API
 - [scriptify/Chnl](https://github.com/scriptify/Chnl) - makes it easy to attach lots of effects to a single AudioNode of any kind
 - [QuietTake Noise Remover (web app)](https://noiseremover.site/) - browser-local speech noise suppression with RNNoise WebAssembly, strength controls, original/cleaned playback and WAV export; free without an account or audio upload, with limits of 50 MB and five minutes.
+- [SaveByLink Audio Cutter (web app)](https://savebylink.com/en/audio-cutter) - browser-local MP3, 16-bit PCM WAV, and lossless M4A (`-c:a copy`) audio trimmer and video audio extractor powered by FFmpeg WebAssembly, with dynamic fade clamping and zero server uploads; free without an account up to 100 MB (open-source preset specs in [savebylink-media-tools](https://github.com/WaterJason/savebylink-media-tools)).
 
 ### Sound samplers:
 
